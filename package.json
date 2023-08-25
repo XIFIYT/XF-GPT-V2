@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-gamecord": "^4.4.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  },
+  "name": "chatgpt-discordbot-7f76d876e639f605d44a53ea6983f25827297eac",
+  "description": "![alt text](https://cdn.discordapp.com/attachments/1051170910591266849/1074328209425969222/image.png)",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "node",
+  "license": "ISC"
+}
